@@ -20,7 +20,7 @@ let sessionStore: UseBoundStore<StoreApi<WorldBridgeStore>> | null = null
 let isSessionActive = false
 
 /**
- * Creates a new World ID verification session
+ * Creates a new World ID verificati
  * @param config The session configuration
  * @returns Promise that resolves when session is created
  */
